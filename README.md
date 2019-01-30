@@ -1,3 +1,3 @@
 # git-test
 
-readme branch master
+readme branch dev is default now
